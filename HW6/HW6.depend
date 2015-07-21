@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437431638 source:f:\college work\hw6\main.cpp
+	<iostream>
+	<stack>
+	<fstream>
+	<vector>
+	<cstring>
+
